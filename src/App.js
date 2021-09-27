@@ -1,4 +1,5 @@
 import './App.scss';
+import RouterComponent from './components/router/RouterComponent'
 
 function App() {
   return (
